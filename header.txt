@@ -1,3 +1,5 @@
+New changes to test <rebase>.
+Changes from <first> branch.
+
 New file for new repository.
 Changes from <master> branch.
-New changes to test <rebase>.
