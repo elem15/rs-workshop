@@ -1,1 +1,2 @@
 New file for new repository.
+Changes from <master> branch.
