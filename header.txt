@@ -1,2 +1,3 @@
 New file for new repository.
 Changes from <master> branch.
+New changes to test <rebase>.
